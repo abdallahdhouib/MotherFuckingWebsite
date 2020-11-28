@@ -1,9 +1,19 @@
 header {
   font-size: 1.5pc;
-  background-color: rgb(250, 210, 210);
   max-width: 100%;
   border-radius: 20px;
   text-align: center;
+  color: rgb(13, 13, 97);
+  border: black;
+  border-style: dashed;
+}
+header img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  min-width: 100%;
+  max-height: 30%;
+  opacity: 20%;
 }
 
 header.title {
