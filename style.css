@@ -1,0 +1,27 @@
+header {
+  font-size: 1.5pc;
+  background-color: rgb(250, 210, 210);
+  max-width: 100%;
+  border-radius: 20px;
+  text-align: center;
+}
+
+header.title {
+  line-height: 1.4;
+}
+
+body {
+  background-color: #eeeeee;
+
+  position: relative;
+  padding: 11%;
+}
+p {
+  font-size: 20px;
+  max-width: 80ch;
+  font-family: 'montserrat', sans-serif;
+}
+ul {
+  font-size: 20px;
+  font-family: 'montserrat', sans-serif;
+}
